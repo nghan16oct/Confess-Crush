@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "gửi nth",
-    introTitle: 'nguyễn thanh hải à',
+    introTitle: 'nguyễn thanh hải',
     introDesc: `chào mừng hải đến với tình iu của dth`,
     btnIntro: 'hihi',
     title: 'huyền thích hải nhiều lúm:> hải thích huyền khum?',
